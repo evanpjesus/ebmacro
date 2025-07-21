@@ -1,0 +1,1 @@
+([('EB Macro', '/Users/evanjesus/ebmacro/dist/EB Macro', 'EXECUTABLE')],)
